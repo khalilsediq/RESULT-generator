@@ -25,5 +25,5 @@ fruits.unshift("khan")
 // fruits.shift("")
 // fruits.pop()
 // fruits.splice(2, 1 , "updated");
-fruits[0, 2] = "updated";
+fruits[2] = "updated";
 console.log(fruits);
